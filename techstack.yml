@@ -2,7 +2,7 @@ repo_name: jknohr/nohr-dev-env
 report_id: 47ba9886a29496c8cc3e04938ece4f16
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-28T04:56:55+00:00'
+timestamp: '2024-01-05T08:14:40+00:00'
 requested_by: glours
 provider: github
 branch: main
@@ -18,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/jknohr/nohr-dev-env
   detection_source: Repo Metadata
 - name: DB
   description: 'Version control for databases: save, restore, and archive snapshots
@@ -29,6 +30,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/jknohr/nohr-dev-env/blob/main/.docker/docker-compose.yaml
   detection_source: ".docker/docker-compose.yaml"
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-06-21 15:37:47.000000000 Z
@@ -41,6 +43,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1615/mariadb-logo-400x400.png
+  detection_source_url: https://github.com/jknohr/nohr-dev-env/blob/main/.docker/docker-compose.yaml
   detection_source: ".docker/docker-compose.yaml"
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-06-21 15:37:47.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/jknohr/nohr-dev-env/blob/main/.docker/docker-compose.yaml
   detection_source: ".docker/docker-compose.yaml"
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-06-21 15:37:47.000000000 Z
@@ -64,6 +68,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/jknohr/nohr-dev-env
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -73,6 +78,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jknohr/nohr-dev-env
   detection_source: Repo Metadata
 - name: Alt
   description: A library for managing data within JavaScript applications
@@ -82,6 +88,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png
+  detection_source_url: https://github.com/jknohr/nohr-dev-env/blob/main/.docker/docker-compose.yaml
   detection_source: ".docker/docker-compose.yaml"
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-06-21 15:37:47.000000000 Z
