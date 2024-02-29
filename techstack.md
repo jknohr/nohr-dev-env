@@ -4,11 +4,11 @@
 jknohr/nohr-dev-env is built on the following main stack:
 
 - [Golang](http://golang.org/) – Languages
-- [MySQL](http://www.mysql.com) – Databases
-- [MariaDB](https://mariadb.com/) – Databases
-- [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
 - [DB](https://github.com/infostreams/db) – Database Tools
+- [MariaDB](https://mariadb.com/) – Databases
+- [MySQL](http://www.mysql.com) – Databases
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -19,11 +19,11 @@ Full tech stack [here](/techstack.md)
 jknohr/nohr-dev-env is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1615/mariadb-logo-400x400.png' alt='MariaDB'/> [MariaDB](https://mariadb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png' alt='Alt'/> [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'/> [DB](https://github.com/infostreams/db) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1615/mariadb-logo-400x400.png' alt='MariaDB'/> [MariaDB](https://mariadb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png' alt='Alt'/> [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jknohr/nohr-dev-env](https://github.com/jknohr/nohr-dev-env)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|01/05/24 <br/>Report generated|
+|10<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
